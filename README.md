@@ -4,7 +4,7 @@ Autoencoders well suited for unsupervised learning, a method for detecting inher
 two Variational Autoencoder using the MNIST dataset with different optimizers: AdaDelta and Adam. Analyzing the performance of both is 
 necessary for the quality of the generated distribution. 
 
-Credit goes to well suited for unsupervised learning, a method for detecting inherent patterns in a data set.
+Credit goes to https://github.com/llSourcell/how_to_generate_images_with_tensorflow_LIVE
 
 Source:
 
